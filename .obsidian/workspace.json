@@ -180,8 +180,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1cefdb4f95118a63",
+  "active": "006ba07e5db6c8e7",
   "lastOpenFiles": [
-    "Chapter 1.md"
+    "images/current-direction.png",
+    "Chapter 1.md",
+    "images"
   ]
 }
