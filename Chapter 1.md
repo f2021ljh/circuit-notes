@@ -18,5 +18,7 @@
 - 方向：从低电位到高电位，与电压方向相反。
 ### 电功率
 - 定义：$p=\dfrac{\mathrm{d}W}{\mathrm{d}t}$，其中 $\mathrm{d}W$ 是在 $\mathrm{d}t$ 时间内 **消耗或吸收** 的功率。
-- **计算**：由 $\mathrm{d}W=u \mathrm{d}q=ui \mathrm{d}t$ 得，$p=ui$。
+- **计算**：由 $\mathrm{d}W=u \mathrm{d}q=ui \mathrm{d}t$ 得，$p=ui$。在 **关联参考方向**（$u,i$ 同方向）下，$p=ui$ 计算的是 **吸收功率**；在非关联参考方向下，计算的是 **发出功率**。若吸收功率为负值，则绝对值为发出功率，反之亦然。
 - 单位：瓦［特］$\pu{W}$，$\pu{1W}=\pu{1J}/\pu{1s}=\pu{1V}\cdot\pu{1A}$。
+- 做功的计算：在 $t_0$ 到 $t$ 时间内，电路吸收或发出的功为 $W(t)=\displaystyle\int_{t_0}^{t}p(\xi)\mathrm{d}\xi=\displaystyle\int_{t_0}^{t}u(\xi)i(\xi)\mathrm{d}\xi$。
+## 1.2　电阻元件
