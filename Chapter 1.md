@@ -13,4 +13,10 @@
 - **电位**（**电势**）：任选一点为 **参考点**（零电位点），则其他点到参考点的电压称为电位，记为 $\varphi$。电压又称电位差或电位降：$u_{ab}=\varphi_a-\varphi_b$。
 - **参考方向**：任意假设，在图中用箭头或正负极标出，若由节点 $a$ 指向 $b$ 或 $a$ 为正极 $b$ 为负极，则 $\varphi_{ab}$ 为正方向。有 $u_{ab}=\varphi_a-\varphi_b=-(\varphi_b-\varphi_a)=-u_{ba}$。
 ### 电动势
-- 定义：$e=\dfrac{\mathrm{d}W}{\mathrm{d}q}$，其中 $\mathrm{d}$
+- 定义：$e=\dfrac{\mathrm{d}W}{\mathrm{d}q}$，其中 $\mathrm{d}W$ 是电源将电荷 $\mathrm{d}q$ 从负极经电源内部移到正极所做的功。
+- 单位：$\pu{V}$。
+- 方向：从低电位到高电位，与电压方向相反。
+### 电功率
+- 定义：$p=\dfrac{\mathrm{d}W}{\mathrm{d}t}$，其中 $\mathrm{d}W$ 是在 $\mathrm{d}t$ 时间内 **消耗或吸收** 的功率。
+- **计算**：由 $\mathrm{d}W=u \mathrm{d}q=ui \mathrm{d}t$ 得，$p=ui$。
+- 单位：瓦［特］$\pu{W}$，$\pu{1W}=\pu{1J}/\pu{1s}=\pu{1V}\cdot\pu{1A}$。
