@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f8d936281c1afdef",
+        "id": "bb9bab0ea06108af",
         "type": "tabs",
         "children": [
           {
-            "id": "006ba07e5db6c8e7",
+            "id": "a27aa8b6e8d56766",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -180,10 +180,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "006ba07e5db6c8e7",
+  "active": "a27aa8b6e8d56766",
   "lastOpenFiles": [
-    "images/current-direction.png",
+    "images/resistance-symbol.png",
     "Chapter 1.md",
+    "images/reference-direction.png",
+    "images/voltage-direction.png",
+    "images/current-direction.png",
     "images"
   ]
 }
