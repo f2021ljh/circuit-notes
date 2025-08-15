@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "60f892f5155fef77",
+        "id": "b5ced31b304108d4",
         "type": "tabs",
         "children": [
           {
-            "id": "28b9e0f1dd140c00",
+            "id": "54660525a0c76c6a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Chapter 1"
             }
+          },
+          {
+            "id": "c100c26e5f25062b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.2 电阻元件.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.2 电阻元件"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 1.md",
+                "file": "1.2 电阻元件.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Chapter 1 的大纲"
+              "title": "1.2 电阻元件 的大纲"
             }
           },
           {
@@ -162,7 +177,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -180,10 +195,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "28b9e0f1dd140c00",
+  "active": "c100c26e5f25062b",
   "lastOpenFiles": [
-    "images/capacitor-structure.png",
     "Chapter 1.md",
+    "1.2 电阻元件.md",
+    "第 1 章 电路元件与电路基本定律/1.1 电流、电压与电功率.md",
+    "第 1 章 电路元件与电路基本定律",
+    "images/capacitor-structure.png",
     "images/capacitor-symbol.png",
     "Pasted image 20250816014139.png",
     "images/resistance-symbol.png",
