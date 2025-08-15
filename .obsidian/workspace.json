@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "e7cc122b6d61235b",
+        "id": "13d800a117568c4b",
         "type": "tabs",
         "children": [
           {
-            "id": "c714fb0a885ff603",
+            "id": "ab2469b3a44549df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 1.md",
+                "file": "第 1 章 电路元件与电路基本定律/1.4 电感元件.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 1"
-            }
-          },
-          {
-            "id": "cff6f958929b92cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.3 电容元件.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1.3 电容元件"
+              "title": "1.4 电感元件"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.3 电容元件.md",
+                "file": "第 1 章 电路元件与电路基本定律/1.4 电感元件.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "1.3 电容元件 的大纲"
+              "title": "1.4 电感元件 的大纲"
             }
           },
           {
@@ -195,12 +180,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cff6f958929b92cf",
+  "active": "ab2469b3a44549df",
   "lastOpenFiles": [
-    "第 1 章 电路元件与电路基本定律/1.2 电阻元件.md",
-    "第 1 章 电路元件与电路基本定律/1.1 电流、电压与电功率.md",
-    "1.3 电容元件.md",
+    "第 1 章 电路元件与电路基本定律/1.4 电感元件.md",
+    "第 1 章 电路元件与电路基本定律/1.3 电容元件.md",
     "Chapter 1.md",
+    "第 1 章 电路元件与电路基本定律/1.1 电流、电压与电功率.md",
+    "第 1 章 电路元件与电路基本定律/1.2 电阻元件.md",
     "第 1 章 电路元件与电路基本定律",
     "images/capacitor-structure.png",
     "images/capacitor-symbol.png",
