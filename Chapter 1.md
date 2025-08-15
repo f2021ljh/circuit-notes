@@ -53,4 +53,4 @@
 		- $i=\dfrac{\mathrm{d}q}{\mathrm{d}t}=C \dfrac{\mathrm{d}u}{\mathrm{d}t}$，即电流与电压变化率成正比。若施加直流电压，则电流为零，相当于开路。
 		- $u(t)=\dfrac{q(t)}{C}=\dfrac{1}{C}\displaystyle\int_{-\infty}^{t}i(\xi)\mathrm{d}\xi$，即 $t$ 时刻的 $u$ 是该时刻以前 $i$ 对 $u$ 影响的积累。若研究的是某一时刻 $t_0$ 之后的情况，则 $u(t)=u(t_0)+\dfrac{1}{C}\displaystyle\int_{t_0}^{t}i(\xi)\mathrm{d}\xi$，其中 $u(t_0)$ 称为初始电压。
 	  $u,i$ 关系为微、积分的关系，故电容属于 **动态元件**。
-- 能量：
+- 功率与能量：输入线性电容的功率为 $p=ui=u\cdot C \dfrac{\mathrm{d}u}{\mathrm{d}t}$，故 $t$ 时刻吸收的总能量为 $$W _{\mathrm{e}}(t)=\int_{-\infty}^{t}p(\xi)\mathrm{d}\xi=\int_{-\infty}^{t}\left(Cu \frac{\mathrm{d}u}{\mathrm{d}\xi}\right)\mathrm{d}\xi=C \int_{-\infty}^{t}u \mathrm{d}u=\frac{1}{2}Cu^2,$$其中 $t=-\infty$
