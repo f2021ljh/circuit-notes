@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bb9bab0ea06108af",
+        "id": "60f892f5155fef77",
         "type": "tabs",
         "children": [
           {
-            "id": "a27aa8b6e8d56766",
+            "id": "28b9e0f1dd140c00",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -180,10 +180,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a27aa8b6e8d56766",
+  "active": "28b9e0f1dd140c00",
   "lastOpenFiles": [
-    "images/resistance-symbol.png",
+    "Pasted image 20250816014353.png",
+    "images/capacitor-symbol.png",
     "Chapter 1.md",
+    "Pasted image 20250816014139.png",
+    "images/resistance-symbol.png",
     "images/reference-direction.png",
     "images/voltage-direction.png",
     "images/current-direction.png",
