@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "13d800a117568c4b",
+        "id": "7038789f928bdc92",
         "type": "tabs",
         "children": [
           {
-            "id": "ab2469b3a44549df",
+            "id": "8ed363cb5b8d2be5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "第 1 章 电路元件与电路基本定律/1.4 电感元件.md",
+                "file": "第 1 章 电路元件与电路基本定律/1.5 独立电源.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.4 电感元件"
+              "title": "1.5 独立电源"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "第 1 章 电路元件与电路基本定律/1.4 电感元件.md",
+                "file": "第 1 章 电路元件与电路基本定律/1.5 独立电源.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "1.4 电感元件 的大纲"
+              "title": "1.5 独立电源 的大纲"
             }
           },
           {
@@ -162,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -180,12 +180,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ab2469b3a44549df",
+  "active": "2a3cac8e7cb0670c",
   "lastOpenFiles": [
-    "第 1 章 电路元件与电路基本定律/1.3 电容元件.md",
+    "第 1 章 电路元件与电路基本定律/1.5 独立电源.md",
     "第 1 章 电路元件与电路基本定律/1.4 电感元件.md",
+    "第 1 章 电路元件与电路基本定律/1.3 电容元件.md",
+    "images/inductor-symbol.png",
+    "images/voltage-direction.png",
     "第 1 章 电路元件与电路基本定律/1.2 电阻元件.md",
-    "Pasted image 20250816033251.png",
     "Chapter 1.md",
     "第 1 章 电路元件与电路基本定律/1.1 电流、电压与电功率.md",
     "第 1 章 电路元件与电路基本定律",
@@ -194,7 +196,6 @@
     "Pasted image 20250816014139.png",
     "images/resistance-symbol.png",
     "images/reference-direction.png",
-    "images/voltage-direction.png",
     "images/current-direction.png",
     "images"
   ]
