@@ -48,5 +48,6 @@
 - 单位：电容 $C$ 的 SI 单位为法［拉］$\pu{F}$，$\pu{1F}=\pu{1C}/\pu{1V}$。法拉很大，故使用时通常用毫法（$\pu{mF}$）、微法（$\pu{\upmu F}$）等。
 - 电容的大小：对于上面图中的平行板电容器，其电容为 $C=\dfrac{\varepsilon A}{d}$。线性电容元件的电容为常量。
 - $C$ 与 $i,u,q$ 的计算：
+	- $q,i$ 关系：$q(t)=\displaystyle\int_{-\infty}^{t}i(\xi)\mathrm{d}\xi$，即 $t$ 时刻的电荷量是电流充、放电积累的结果。故电容属于 **记忆元件**。
 	- $i,u$ 关系：设 $i$ 的参考方向为流入正极板方向，则 $i=\dfrac{\mathrm{d}q}{\mathrm{d}t}=C \dfrac{\mathrm{d}u}{\mathrm{d}t}$，即电流与电压变化率成正比。若施加直流电压，则电流为零，相当于开路。
-	- $q,i$ 关系：由 $q(t)=\displaystyle\int_{-\infty}^{t}i(\xi)\mathrm{d}\xi$ 知，
+	- $u,i$ 关系：设 $u,i$ 为关联参考方向，则 $u(t)=\dfrac{q(t)}{C}=\dfrac{1}{C}\displaystyle\int_{-\infty}^{t}i(\xi)\mathrm{d}\xi$。$u,i$ 关系为微、积分的关系，故电容属于 **动态元件**。
