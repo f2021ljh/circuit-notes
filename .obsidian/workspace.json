@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "baa85f7a67e742c8",
+        "id": "67bee770ff700cdb",
         "type": "tabs",
         "children": [
           {
-            "id": "7da545eb394e8897",
+            "id": "132858d711965d64",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -180,10 +180,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7da545eb394e8897",
+  "active": "132858d711965d64",
   "lastOpenFiles": [
-    "第 1 章 电路元件与电路基本定律/1.5 独立电源.md",
+    "images/controlled-source-symbol.png",
     "第 1 章 电路元件与电路基本定律/1.6 受控电源.md",
+    "第 1 章 电路元件与电路基本定律/1.5 独立电源.md",
     "images/current-source-symbol.png",
     "images/current-source-symbol.png",
     "images/voltage-source-port-behavior.png",
@@ -199,7 +200,6 @@
     "images/capacitor-structure.png",
     "images/capacitor-symbol.png",
     "Pasted image 20250816014139.png",
-    "images/resistance-symbol.png",
     "images"
   ]
 }
