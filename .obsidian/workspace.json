@@ -180,10 +180,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1cefdb4f95118a63",
+  "active": "132858d711965d64",
   "lastOpenFiles": [
-    "images/circuit-structure.png",
+    "images/KCL.png",
     "第 1 章 电路元件与电路基本定律/1.7 基尔霍夫定律.md",
+    "images/circuit-structure.png",
     "第 1 章 电路元件与电路基本定律/1.6 受控电源.md",
     "第 1 章 电路元件与电路基本定律/1.5 独立电源.md",
     "第 1 章 电路元件与电路基本定律/1.1 电流、电压与电功率.md",
@@ -200,7 +201,6 @@
     "Chapter 1.md",
     "第 1 章 电路元件与电路基本定律",
     "images/capacitor-structure.png",
-    "images/capacitor-symbol.png",
     "images"
   ]
 }
