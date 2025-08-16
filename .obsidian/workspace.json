@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "第 1 章 电路元件与电路基本定律/习题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "习题"
             }
           }
         ],
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md",
+                "file": "第 1 章 电路元件与电路基本定律/习题.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "习题 的大纲"
             }
           },
           {
@@ -198,26 +198,26 @@
   "active": "8bf7b53492dff20f",
   "lastOpenFiles": [
     "第 1 章 电路元件与电路基本定律/1.7 基尔霍夫定律.md",
-    "未命名.md",
-    "未命名",
-    "images/KVL.png",
-    "images/KCL.png",
-    "images/circuit-structure.png",
+    "第 1 章 电路元件与电路基本定律/习题.md",
+    "第 2 章 线性直流电路",
+    "第 1 章 电路元件与电路基本定律/images/KVL.png",
+    "第 1 章 电路元件与电路基本定律/images/KCL.png",
+    "第 1 章 电路元件与电路基本定律/images/circuit-structure.png",
     "第 1 章 电路元件与电路基本定律/1.6 受控电源.md",
     "第 1 章 电路元件与电路基本定律/1.5 独立电源.md",
     "第 1 章 电路元件与电路基本定律/1.1 电流、电压与电功率.md",
     "第 1 章 电路元件与电路基本定律/1.2 电阻元件.md",
     "第 1 章 电路元件与电路基本定律/1.3 电容元件.md",
     "第 1 章 电路元件与电路基本定律/1.4 电感元件.md",
-    "images/controlled-source-symbol.png",
-    "images/current-source-symbol.png",
-    "images/current-source-symbol.png",
-    "images/voltage-source-port-behavior.png",
-    "images/voltage-source-symbol.png",
-    "images/inductor-symbol.png",
-    "images/voltage-direction.png",
+    "第 1 章 电路元件与电路基本定律/images/controlled-source-symbol.png",
+    "第 1 章 电路元件与电路基本定律/images/current-source-symbol.png",
+    "第 1 章 电路元件与电路基本定律/images/current-source-symbol.png",
+    "第 1 章 电路元件与电路基本定律/images/voltage-source-port-behavior.png",
+    "第 1 章 电路元件与电路基本定律/images/voltage-source-symbol.png",
+    "第 1 章 电路元件与电路基本定律/images/inductor-symbol.png",
+    "第 1 章 电路元件与电路基本定律/images/voltage-direction.png",
     "Chapter 1.md",
     "第 1 章 电路元件与电路基本定律",
-    "images"
+    "第 1 章 电路元件与电路基本定律/images"
   ]
 }
