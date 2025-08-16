@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "第 1 章 电路元件与电路基本定律/1.5 独立电源.md",
+                "file": "第 1 章 电路元件与电路基本定律/1.6 受控电源.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.5 独立电源"
+              "title": "1.6 受控电源"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "第 1 章 电路元件与电路基本定律/1.5 独立电源.md",
+                "file": "第 1 章 电路元件与电路基本定律/1.6 受控电源.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "1.5 独立电源 的大纲"
+              "title": "1.6 受控电源 的大纲"
             }
           },
           {
@@ -182,8 +182,8 @@
   },
   "active": "7da545eb394e8897",
   "lastOpenFiles": [
-    "第 1 章 电路元件与电路基本定律/1.6 受控电源.md",
     "第 1 章 电路元件与电路基本定律/1.5 独立电源.md",
+    "第 1 章 电路元件与电路基本定律/1.6 受控电源.md",
     "images/current-source-symbol.png",
     "images/current-source-symbol.png",
     "images/voltage-source-port-behavior.png",
