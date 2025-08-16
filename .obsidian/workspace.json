@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "67bee770ff700cdb",
+        "id": "0753f18fc885f392",
         "type": "tabs",
         "children": [
           {
-            "id": "132858d711965d64",
+            "id": "291802b6798e58b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -180,10 +180,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "132858d711965d64",
+  "active": "291802b6798e58b5",
   "lastOpenFiles": [
-    "未命名.md",
+    "KVL.png",
     "第 1 章 电路元件与电路基本定律/1.7 基尔霍夫定律.md",
+    "未命名.md",
     "images/KCL.png",
     "images/circuit-structure.png",
     "第 1 章 电路元件与电路基本定律/1.6 受控电源.md",
@@ -201,7 +202,6 @@
     "images/voltage-direction.png",
     "Chapter 1.md",
     "第 1 章 电路元件与电路基本定律",
-    "images/capacitor-structure.png",
     "images"
   ]
 }
