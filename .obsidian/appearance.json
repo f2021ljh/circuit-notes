@@ -1,4 +1,6 @@
 {
   "accentColor": "#4f7afc",
-  "cssTheme": ""
+  "cssTheme": "",
+  "monospaceFontFamily": "JetBrains Mono,Consolas",
+  "baseFontSizeAction": true
 }
