@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "第 1 章 电路元件与电路基本定律/1.3 电容元件.md",
+                "file": "第 1 章 电路元件与电路基本定律/1.4 电感元件.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.3 电容元件"
+              "title": "1.4 电感元件"
             }
           }
         ],
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "第 1 章 电路元件与电路基本定律/1.3 电容元件.md",
+                "file": "第 1 章 电路元件与电路基本定律/1.4 电感元件.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "1.3 电容元件 的大纲"
+              "title": "1.4 电感元件 的大纲"
             }
           },
           {
@@ -197,6 +197,7 @@
   },
   "active": "32ae76ae5dbb1ae1",
   "lastOpenFiles": [
+    "第 1 章 电路元件与电路基本定律/1.3 电容元件.md",
     "第 1 章 电路元件与电路基本定律/习题.md",
     "第 1 章 电路元件与电路基本定律/1.7 基尔霍夫定律.md",
     "第 2 章 线性直流电路",
@@ -207,7 +208,6 @@
     "第 1 章 电路元件与电路基本定律/1.5 独立电源.md",
     "第 1 章 电路元件与电路基本定律/1.1 电流、电压与电功率.md",
     "第 1 章 电路元件与电路基本定律/1.2 电阻元件.md",
-    "第 1 章 电路元件与电路基本定律/1.3 电容元件.md",
     "第 1 章 电路元件与电路基本定律/1.4 电感元件.md",
     "第 1 章 电路元件与电路基本定律/images/controlled-source-symbol.png",
     "第 1 章 电路元件与电路基本定律/images/current-source-symbol.png",
