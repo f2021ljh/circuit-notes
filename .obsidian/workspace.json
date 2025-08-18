@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "32ae76ae5dbb1ae1",
+            "id": "73c286e08a363006",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "第 2 章 线性直流电路/2.1 电阻网络的等效.md",
+                "file": "第 2 章 线性直流电路/2.2 含源支路的等效变换.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2.1 电阻网络的等效"
+              "title": "2.2 含源支路的等效变换"
             }
           }
         ]
@@ -152,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "第 2 章 线性直流电路/2.1 电阻网络的等效.md",
+                "file": "第 2 章 线性直流电路/2.2 含源支路的等效变换.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2.1 电阻网络的等效 的大纲"
+              "title": "2.2 含源支路的等效变换 的大纲"
             }
           },
           {
@@ -190,10 +190,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "32ae76ae5dbb1ae1",
+  "active": "73c286e08a363006",
   "lastOpenFiles": [
-    "第 2 章 线性直流电路/images/resistance-bridge.png",
     "第 2 章 线性直流电路/2.1 电阻网络的等效.md",
+    "第 2 章 线性直流电路/2.2 含源支路的等效变换.md",
+    "第 2 章 线性直流电路/images/resistance-bridge.png",
     "第 2 章 线性直流电路/images/resistance-star-triangle-transform.png",
     "第 2 章 线性直流电路/images/resistance-star-and-triangle.png",
     "第 1 章 电路元件与电路基本定律/1.7 基尔霍夫定律.md",
