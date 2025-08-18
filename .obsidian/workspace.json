@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "第 2 章 线性直流电路/2.3 支路电流法.md",
+                "file": "第 2 章 线性直流电路/2.4 回路电流法.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2.3 支路电流法"
+              "title": "2.4 回路电流法"
             }
           }
         ]
@@ -152,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "第 2 章 线性直流电路/2.3 支路电流法.md",
+                "file": "第 2 章 线性直流电路/2.4 回路电流法.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2.3 支路电流法 的大纲"
+              "title": "2.4 回路电流法 的大纲"
             }
           },
           {
@@ -190,10 +190,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8bf7b53492dff20f",
+  "active": "2ac741b948619019",
   "lastOpenFiles": [
-    "第 2 章 线性直流电路/2.2 含源支路的等效变换.md",
+    "第 2 章 线性直流电路/images/loop-current.png",
+    "第 2 章 线性直流电路/2.4 回路电流法.md",
     "第 2 章 线性直流电路/2.3 支路电流法.md",
+    "第 2 章 线性直流电路/2.2 含源支路的等效变换.md",
     "第 2 章 线性直流电路/images/voltage-source-parallel-resistor.png",
     "第 2 章 线性直流电路/images/exmplae-2-3-solution.png",
     "第 2 章 线性直流电路/images/example-2-3.png",
@@ -203,7 +205,6 @@
     "第 2 章 线性直流电路/images/star-triangle-transform.png",
     "第 2 章 线性直流电路/images/resistor-in-parallel.png",
     "第 2 章 线性直流电路/images/resistor-in-series.png",
-    "第 2 章 线性直流电路/images/thevenin-norton-transform.png",
     "第 2 章 线性直流电路/2.1 电阻网络的等效.md",
     "第 1 章 电路元件与电路基本定律/1.7 基尔霍夫定律.md",
     "第 1 章 电路元件与电路基本定律/习题选做.md",
