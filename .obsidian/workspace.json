@@ -11,24 +11,12 @@
             "id": "73c286e08a363006",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "第 2 章 线性直流电路/2.2 含源支路的等效变换.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "voltage-source-parallel-resistor.png"
               },
-              "icon": "lucide-file",
-              "title": "2.2 含源支路的等效变换"
+              "icon": "lucide-image",
+              "title": "voltage-source-parallel-resistor"
             }
           }
         ]
@@ -152,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "第 2 章 线性直流电路/2.2 含源支路的等效变换.md",
+                "file": "voltage-source-parallel-resistor.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2.2 含源支路的等效变换 的大纲"
+              "title": "voltage-source-parallel-resistor 的大纲"
             }
           },
           {
@@ -192,8 +180,9 @@
   },
   "active": "73c286e08a363006",
   "lastOpenFiles": [
-    "第 2 章 线性直流电路/images/thevenin-norton-transform.png",
     "第 2 章 线性直流电路/2.2 含源支路的等效变换.md",
+    "voltage-source-parallel-resistor.png",
+    "第 2 章 线性直流电路/images/thevenin-norton-transform.png",
     "第 2 章 线性直流电路/2.1 电阻网络的等效.md",
     "第 2 章 线性直流电路/images/resistance-bridge.png",
     "第 2 章 线性直流电路/images/resistance-star-triangle-transform.png",
@@ -209,7 +198,6 @@
     "第 2 章 线性直流电路",
     "第 1 章 电路元件与电路基本定律/images/KVL.png",
     "第 1 章 电路元件与电路基本定律/images/KCL.png",
-    "第 1 章 电路元件与电路基本定律/images/circuit-structure.png",
     "第 1 章 电路元件与电路基本定律/1.6 受控电源.md",
     "第 1 章 电路元件与电路基本定律/1.5 独立电源.md",
     "第 1 章 电路元件与电路基本定律/1.1 电流、电压与电功率.md",
