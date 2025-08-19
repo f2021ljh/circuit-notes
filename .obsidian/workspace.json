@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "第 2 章 线性直流电路/总结：电路的基本分析方法.md",
+                "file": "第 2 章 线性直流电路/2.1 电阻网络的等效.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "总结：电路的基本分析方法"
+              "title": "2.1 电阻网络的等效"
             }
           }
         ]
@@ -152,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "第 2 章 线性直流电路/总结：电路的基本分析方法.md",
+                "file": "第 2 章 线性直流电路/2.1 电阻网络的等效.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "总结：电路的基本分析方法 的大纲"
+              "title": "2.1 电阻网络的等效 的大纲"
             }
           },
           {
@@ -190,9 +190,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "067ead92a77a55a4",
+  "active": "8bf7b53492dff20f",
   "lastOpenFiles": [
+    "第 2 章 线性直流电路/images/2.1",
     "第 2 章 线性直流电路/2.3 支路电流法.md",
+    "第 2 章 线性直流电路/2.2 含源支路的等效变换.md",
+    "第 2 章 线性直流电路/2.1 电阻网络的等效.md",
+    "第 2 章 线性直流电路/images/current-source-series-resistor.png",
     "第 2 章 线性直流电路/总结：电路的基本分析方法.md",
     "第.md",
     "第 2 章 线性直流电路/2.5 节点电压法.md",
@@ -202,15 +206,12 @@
     "第 2 章 线性直流电路/images/loop_selection.png",
     "第 2 章 线性直流电路/images/loop_current_example.png",
     "第 2 章 线性直流电路/images/loop-current.png",
-    "第 2 章 线性直流电路/2.2 含源支路的等效变换.md",
     "第 2 章 线性直流电路/images/voltage-source-parallel-resistor.png",
     "第 2 章 线性直流电路/images/exmplae-2-3-solution.png",
     "第 2 章 线性直流电路/images/example-2-3.png",
-    "第 2 章 线性直流电路/images/current-source-series-resistor.png",
     "第 2 章 线性直流电路/images/resistor-star-and-triangle.png",
     "第 2 章 线性直流电路/images/resistor-bridge.png",
     "第 2 章 线性直流电路/images/star-triangle-transform.png",
-    "第 2 章 线性直流电路/2.1 电阻网络的等效.md",
     "第 1 章 电路元件与电路基本定律/习题选做.md",
     "第 2 章 线性直流电路/images",
     "第 1 章 电路元件与电路基本定律/1.4 电感元件.md",
