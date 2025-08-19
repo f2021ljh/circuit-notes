@@ -4,19 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "4b1e4913c5c3aca1",
+        "id": "46f969f5cfb475b5",
         "type": "tabs",
         "children": [
           {
-            "id": "067ead92a77a55a4",
+            "id": "9e27bbc8085a9cb8",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "第 2 章 线性直流电路/images/2.x/example_1.png"
+                "file": "第 2 章 线性直流电路/总结：电路的基本分析方法.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-image",
-              "title": "example_1"
+              "icon": "lucide-file",
+              "title": "总结：电路的基本分析方法"
             }
           }
         ]
@@ -140,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "第 2 章 线性直流电路/images/2.x/example_1.png",
+                "file": "第 2 章 线性直流电路/总结：电路的基本分析方法.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "example_1 的大纲"
+              "title": "总结：电路的基本分析方法 的大纲"
             }
           },
           {
@@ -178,10 +190,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "067ead92a77a55a4",
+  "active": "9e27bbc8085a9cb8",
   "lastOpenFiles": [
+    "第 2 章 线性直流电路/images/2.x/example-solution-2.png",
     "第 2 章 线性直流电路/总结：电路的基本分析方法.md",
-    "第 2 章 线性直流电路/images/2.x/example_1.png",
+    "第 2 章 线性直流电路/images/2.x/example-solutoin-1.png",
     "第 2 章 线性直流电路/2.4 回路电流法.md",
     "第 2 章 线性直流电路/2.2 含源支路的等效变换.md",
     "第 2 章 线性直流电路/2.3 支路电流法.md",
@@ -205,7 +218,6 @@
     "第 2 章 线性直流电路/images/2.2/voltage-source-parallel-resistor.png",
     "第 2 章 线性直流电路/images/2.2/exmplae-2-3-solution.png",
     "第 2 章 线性直流电路/images/2.2/example-2-3.png",
-    "第 2 章 线性直流电路/images/2.1/resistor-star-and-triangle.png",
     "第 1 章 电路元件与电路基本定律/习题选做.md",
     "第 2 章 线性直流电路/images",
     "第 1 章 电路元件与电路基本定律/1.4 电感元件.md",
