@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "第 1 章 电路元件与电路基本定律/习题选做.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "习题选做"
             }
           }
         ],
@@ -177,13 +177,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "第 1 章 电路元件与电路基本定律/习题选做.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "README 的大纲"
+              "title": "习题选做 的大纲"
             }
           },
           {
@@ -215,10 +215,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2a3cac8e7cb0670c",
+  "active": "381b2141207667c1",
   "lastOpenFiles": [
-    "第 1 章 电路元件与电路基本定律/习题选做.md",
     "README.md",
+    "第 1 章 电路元件与电路基本定律/习题选做.md",
     "第 2 章 线性直流电路/总结：电路的基本分析方法.md",
     "第 1 章 电路元件与电路基本定律/1.7 基尔霍夫定律.md",
     "第 1 章 电路元件与电路基本定律/images/1.ex",
