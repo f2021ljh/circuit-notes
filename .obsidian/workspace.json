@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "第 2 章 线性直流电路/2.5 节点电压法.md",
+                "file": "第 2 章 线性直流电路/习题选解.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2.5 节点电压法"
+              "title": "习题选解"
             }
           }
         ]
@@ -152,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "第 2 章 线性直流电路/2.5 节点电压法.md",
+                "file": "第 2 章 线性直流电路/习题选解.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2.5 节点电压法 的大纲"
+              "title": "习题选解 的大纲"
             }
           },
           {
@@ -192,8 +192,8 @@
   },
   "active": "8c555c5cf8f217f2",
   "lastOpenFiles": [
-    "第 2 章 线性直流电路/习题选解.md",
     "第 2 章 线性直流电路/2.5 节点电压法.md",
+    "第 2 章 线性直流电路/习题选解.md",
     "第 2 章 线性直流电路/总结：电路的基本分析方法.md",
     "第 2 章 线性直流电路/2.4 回路电流法.md",
     "第 2 章 线性直流电路/2.3 支路电流法.md",
