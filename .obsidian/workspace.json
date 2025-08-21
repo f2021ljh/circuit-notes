@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1b6704edb92b0c13",
+        "id": "d5665adfd5110d2c",
         "type": "tabs",
         "children": [
           {
-            "id": "8c555c5cf8f217f2",
+            "id": "dd86fafd9d6e9645",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -190,13 +190,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8c555c5cf8f217f2",
+  "active": "dd86fafd9d6e9645",
   "lastOpenFiles": [
-    "第 2 章 线性直流电路/images/2.5/modified-node-voltage-example-a.png",
-    "第 2 章 线性直流电路/images/2.5/modified-node-voltage-example.png",
+    "第 2 章 线性直流电路/习题选解.md",
     "第 2 章 线性直流电路/2.5 节点电压法.md",
     "第 2 章 线性直流电路/总结：电路的基本分析方法.md",
-    "第 2 章 线性直流电路/习题选解.md",
+    "第 2 章 线性直流电路/images/2.5/modified-node-voltage-example-a.png",
+    "第 2 章 线性直流电路/images/2.5/modified-node-voltage-example.png",
     "第 2 章 线性直流电路/2.4 回路电流法.md",
     "第 2 章 线性直流电路/2.3 支路电流法.md",
     "第 2 章 线性直流电路/2.1 电阻网络的等效.md",
