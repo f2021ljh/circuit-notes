@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dd86fafd9d6e9645",
+            "id": "834ac2ba36de3778",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "第 2 章 线性直流电路/2.5 节点电压法.md",
+                "file": "第 3 章 电路定理/3.1 置换定理.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2.5 节点电压法"
+              "title": "3.1 置换定理"
+            }
+          },
+          {
+            "id": "7c17068c776aa761",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第 3 章 电路定理/总结.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "总结"
             }
           }
         ]
@@ -152,13 +176,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "第 2 章 线性直流电路/2.5 节点电压法.md",
+                "file": "第 3 章 电路定理/3.1 置换定理.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2.5 节点电压法 的大纲"
+              "title": "3.1 置换定理 的大纲"
             }
           },
           {
@@ -190,11 +214,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dd86fafd9d6e9645",
+  "active": "834ac2ba36de3778",
   "lastOpenFiles": [
-    "第 2 章 线性直流电路/习题选解.md",
-    "第 2 章 线性直流电路/2.5 节点电压法.md",
     "第 2 章 线性直流电路/总结：电路的基本分析方法.md",
+    "第 3 章 电路定理/3.1 置换定理.md",
+    "第 3 章 电路定理/总结.md",
+    "第 2 章 线性直流电路/2.5 节点电压法.md",
+    "第 3 章 电路定理",
+    "第 2 章 线性直流电路/习题选解.md",
     "第 2 章 线性直流电路/images/2.5/modified-node-voltage-example-a.png",
     "第 2 章 线性直流电路/images/2.5/modified-node-voltage-example.png",
     "第 2 章 线性直流电路/2.4 回路电流法.md",
@@ -227,7 +254,6 @@
     "第 1 章 电路元件与电路基本定律/images/1.1",
     "第 2 章 线性直流电路/images/2.s/example-solution-2.png",
     "第 2 章 线性直流电路/images/2.s/example-solutoin-1.png",
-    "第 2 章 线性直流电路/images/2.s",
     "第.md",
     "Chapter 1.md"
   ]
