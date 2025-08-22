@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "33bf2b51f66ec713",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3.4 特勒根定理.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "3.4 特勒根定理"
+            }
+          },
+          {
             "id": "7c17068c776aa761",
             "type": "leaf",
             "state": {
@@ -55,7 +79,8 @@
               "title": "总结"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "第 3 章 电路定理/3.3 等效电源定理（戴维南定理和诺顿定理）.md",
+                "file": "3.4 特勒根定理.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "3.3 等效电源定理（戴维南定理和诺顿定理） 的大纲"
+              "title": "3.4 特勒根定理 的大纲"
             }
           },
           {
@@ -214,10 +239,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5f49833e40def440",
+  "active": "33bf2b51f66ec713",
   "lastOpenFiles": [
-    "第 3 章 电路定理/images/3.3/norton-theorem.png",
     "第 3 章 电路定理/3.3 等效电源定理（戴维南定理和诺顿定理）.md",
+    "3.4 特勒根定理.md",
+    "第 3 章 电路定理/images/3.3/norton-theorem.png",
     "第 3 章 电路定理/images/3.3/thevenin-theorem.png",
     "第 3 章 电路定理/images/3.3",
     "第 3 章 电路定理/3.2 齐性定理和叠加定理.md",
