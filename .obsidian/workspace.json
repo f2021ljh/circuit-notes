@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.4 特勒根定理.md",
+                "file": "第 3 章 电路定理/3.4 特勒根定理.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -53,6 +53,30 @@
               },
               "icon": "lucide-file",
               "title": "3.4 特勒根定理"
+            }
+          },
+          {
+            "id": "aa5bfe7bef1e44ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第 3 章 电路定理/3.5 互易定理.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "3.5 互易定理"
             }
           },
           {
@@ -80,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -201,13 +225,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.4 特勒根定理.md",
+                "file": "第 3 章 电路定理/3.5 互易定理.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "3.4 特勒根定理 的大纲"
+              "title": "3.5 互易定理 的大纲"
             }
           },
           {
@@ -239,10 +263,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "33bf2b51f66ec713",
+  "active": "aa5bfe7bef1e44ae",
   "lastOpenFiles": [
+    "第 3 章 电路定理/3.4 特勒根定理.md",
+    "第 3 章 电路定理/3.5 互易定理.md",
     "第 3 章 电路定理/3.3 等效电源定理（戴维南定理和诺顿定理）.md",
-    "3.4 特勒根定理.md",
     "第 3 章 电路定理/images/3.3/norton-theorem.png",
     "第 3 章 电路定理/images/3.3/thevenin-theorem.png",
     "第 3 章 电路定理/images/3.3",
