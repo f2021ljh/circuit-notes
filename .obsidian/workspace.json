@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "834ac2ba36de3778",
+            "id": "5f49833e40def440",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "第 3 章 电路定理/3.1 置换定理.md",
+                "file": "第 3 章 电路定理/3.2 齐性定理和叠加定理.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "3.1 置换定理"
+              "title": "3.2 齐性定理和叠加定理"
             }
           },
           {
@@ -176,13 +176,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "第 3 章 电路定理/3.1 置换定理.md",
+                "file": "第 3 章 电路定理/3.2 齐性定理和叠加定理.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "3.1 置换定理 的大纲"
+              "title": "3.2 齐性定理和叠加定理 的大纲"
             }
           },
           {
@@ -214,10 +214,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "834ac2ba36de3778",
+  "active": "5f49833e40def440",
   "lastOpenFiles": [
-    "第 2 章 线性直流电路/2.1 电阻网络的等效.md",
+    "第 3 章 电路定理/3.3 等效电源定理（戴维南定理和诺顿定理）.md",
+    "第 3 章 电路定理/3.2 齐性定理和叠加定理.md",
     "第 3 章 电路定理/3.1 置换定理.md",
+    "第 2 章 线性直流电路/2.1 电阻网络的等效.md",
     "第 2 章 线性直流电路/总结：电路的基本分析方法.md",
     "第 3 章 电路定理/总结.md",
     "第 2 章 线性直流电路/2.5 节点电压法.md",
