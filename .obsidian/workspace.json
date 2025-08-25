@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "第 3 章 电路定理/3.4 特勒根定理.md",
+                "file": "第 3 章 电路定理/3.5 互易定理.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "3.4 特勒根定理"
+              "title": "3.5 互易定理"
             }
           }
         ]
@@ -152,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "第 3 章 电路定理/3.4 特勒根定理.md",
+                "file": "第 3 章 电路定理/3.5 互易定理.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "3.4 特勒根定理 的大纲"
+              "title": "3.5 互易定理 的大纲"
             }
           },
           {
@@ -193,8 +193,8 @@
   },
   "active": "7c17068c776aa761",
   "lastOpenFiles": [
-    "第 3 章 电路定理/images/3.4/3-18-solution.png",
     "第 3 章 电路定理/3.4 特勒根定理.md",
+    "第 3 章 电路定理/images/3.4/3-18-solution.png",
     "第 3 章 电路定理/3.2 齐性定理和叠加定理.md",
     "第 1 章 电路元件与电路基本定律/习题选解.md",
     "第 3 章 电路定理/3.6 对偶原理.md",
