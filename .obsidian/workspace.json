@@ -13,30 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "第 4 章 正弦电流电路/4.1 正弦电流.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "4.1 正弦电流"
-            }
-          },
-          {
-            "id": "93dbbdfddfdab683",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "第 4 章 正弦电流电路/4.2 正弦量的相量表示法.md",
                 "mode": "source",
                 "source": false,
@@ -55,8 +31,7 @@
               "title": "4.2 正弦量的相量表示法"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -216,12 +191,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "93dbbdfddfdab683",
+  "active": "7c17068c776aa761",
   "lastOpenFiles": [
+    "第 4 章 正弦电流电路/4.1 正弦电流.md",
+    "第 4 章 正弦电流电路/images/4.2/phasor-diagram.png",
+    "第 4 章 正弦电流电路/4.2 正弦量的相量表示法.md",
     "第 4 章 正弦电流电路/images/4.2/complex.png",
     "第 4 章 正弦电流电路/images/4.2",
-    "第 4 章 正弦电流电路/4.2 正弦量的相量表示法.md",
-    "第 4 章 正弦电流电路/4.1 正弦电流.md",
     "第 3 章 电路定理/3.5 互易定理.md",
     "第 4 章 正弦电流电路/images/4.1",
     "第 4 章 正弦电流电路/images",
@@ -245,7 +221,6 @@
     "第 3 章 电路定理/images/3.5/reciprocity-theorem-1.png",
     "第 3 章 电路定理/images/3.5",
     "第 3 章 电路定理/images/3.3/norton-theorem.png",
-    "第 3 章 电路定理/images/3.3/thevenin-theorem.png",
     "第 3 章 电路定理/images/3.3",
     "第 3 章 电路定理/images/3.2",
     "第 3 章 电路定理/images",
