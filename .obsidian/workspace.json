@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "4.5 阻抗与导纳"
             }
+          },
+          {
+            "id": "a33a3177e8746b8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第 4 章 正弦电流电路/4.6 正弦电流电路的相量分析法.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "4.6 正弦电流电路的相量分析法"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -152,13 +177,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "第 4 章 正弦电流电路/4.5 阻抗与导纳.md",
+                "file": "第 4 章 正弦电流电路/4.6 正弦电流电路的相量分析法.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "4.5 阻抗与导纳 的大纲"
+              "title": "4.6 正弦电流电路的相量分析法 的大纲"
             }
           },
           {
@@ -191,14 +216,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d0660ebc70796cbc",
+  "active": "a33a3177e8746b8d",
   "lastOpenFiles": [
+    "第 4 章 正弦电流电路/4.5 阻抗与导纳.md",
+    "第 4 章 正弦电流电路/4.6 正弦电流电路的相量分析法.md",
+    "第 4 章 正弦电流电路/4.4 RLC 元件上电压与电流的相量关系.md",
+    "第 4 章 正弦电流电路/4.2 正弦量的相量表示法 4.3 基尔霍夫定律的相量形式.md",
     "第 4 章 正弦电流电路/images/4.5/RLC-phasor-diagram.png",
     "第 4 章 正弦电流电路/images/4.5/GCL-phasor-diagram.png",
-    "第 4 章 正弦电流电路/4.5 阻抗与导纳.md",
-    "第 4 章 正弦电流电路/4.4 RLC 元件上电压与电流的相量关系.md",
     "第 4 章 正弦电流电路/images/4.5/GCL-parallel.png",
-    "第 4 章 正弦电流电路/4.2 正弦量的相量表示法 4.3 基尔霍夫定律的相量形式.md",
     "第 4 章 正弦电流电路/4.1 正弦电流.md",
     "第 4 章 正弦电流电路/images/4.5/RLC-series.png",
     "Pasted image 20250826161335.png",
