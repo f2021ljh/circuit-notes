@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "第 4 章 正弦电流电路/4.7 正弦电流电路的功率.md",
+                "file": "第 4 章 正弦电流电路/4.8 最大功率传输定理.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "4.7 正弦电流电路的功率"
+              "title": "4.8 最大功率传输定理"
             }
           },
           {
@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -264,10 +264,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fde03c2093959a11",
+  "active": "0457093a687a4536",
   "lastOpenFiles": [
-    "第 4 章 正弦电流电路/4.7 正弦电流电路的功率.md",
+    "第 4 章 正弦电流电路/images/4.8/max-power.png",
     "第 4 章 正弦电流电路/4.8 最大功率传输定理.md",
+    "第 4 章 正弦电流电路/images/4.8",
+    "第 4 章 正弦电流电路/4.7 正弦电流电路的功率.md",
     "第 4 章 正弦电流电路/images/4.7/power-factor-improvement.png",
     "第 4 章 正弦电流电路/images/4.7/power-triangle.png",
     "第 4 章 正弦电流电路/images/4.7/RL-series-reactive-power.png",
@@ -284,7 +286,6 @@
     "Pasted image 20250826161335.png",
     "第 4 章 正弦电流电路/images/4.5",
     "第 4 章 正弦电流电路/images/4.2/phasor-rotating.png",
-    "第 4 章 正弦电流电路/images/4.2/phasor-diagram.png",
     "第 4 章 正弦电流电路/images/4.2",
     "第 3 章 电路定理/3.5 互易定理.md",
     "第 4 章 正弦电流电路/images/4.1",
@@ -301,7 +302,6 @@
     "第 3 章 电路定理/总结.md",
     "第 3 章 电路定理/images/3.6",
     "第 3 章 电路定理/images/3.5",
-    "第 3 章 电路定理/images/3.3",
     "第 2 章 线性直流电路/2.1 电阻网络的等效.md",
     "第 2 章 线性直流电路/总结：电路的基本分析方法.md",
     "第 2 章 线性直流电路/2.5 节点电压法.md",
@@ -310,7 +310,6 @@
     "第 2 章 线性直流电路/2.3 支路电流法.md",
     "第 2 章 线性直流电路/2.2 含源支路的等效变换.md",
     "README.md",
-    "第 1 章 电路元件与电路基本定律/1.7 基尔霍夫定律.md",
-    "第 1 章 电路元件与电路基本定律/1.6 受控电源.md"
+    "第 1 章 电路元件与电路基本定律/1.7 基尔霍夫定律.md"
   ]
 }
