@@ -78,9 +78,33 @@
               "icon": "lucide-file",
               "title": "4.7 正弦电流电路的功率"
             }
+          },
+          {
+            "id": "fde03c2093959a11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第 4 章 正弦电流电路/4.8 最大功率传输定理.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "4.8 最大功率传输定理"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -201,13 +225,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "第 4 章 正弦电流电路/4.7 正弦电流电路的功率.md",
+                "file": "第 4 章 正弦电流电路/4.8 最大功率传输定理.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "4.7 正弦电流电路的功率 的大纲"
+              "title": "4.8 最大功率传输定理 的大纲"
             }
           },
           {
@@ -240,10 +264,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0457093a687a4536",
+  "active": "fde03c2093959a11",
   "lastOpenFiles": [
-    "第 4 章 正弦电流电路/images/4.7/power-factor-improvement.png",
     "第 4 章 正弦电流电路/4.7 正弦电流电路的功率.md",
+    "第 4 章 正弦电流电路/4.8 最大功率传输定理.md",
+    "第 4 章 正弦电流电路/images/4.7/power-factor-improvement.png",
     "第 4 章 正弦电流电路/images/4.7/power-triangle.png",
     "第 4 章 正弦电流电路/images/4.7/RL-series-reactive-power.png",
     "第 4 章 正弦电流电路/images/4.5/RLC-series.png",
