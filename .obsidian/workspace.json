@@ -54,9 +54,33 @@
               "icon": "lucide-file",
               "title": "4.4 RLC 元件上电压与电流的相量关系"
             }
+          },
+          {
+            "id": "55680cccf863dd84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第 4 章 正弦电流电路/4.5 阻抗与导纳.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "4.5 阻抗与导纳"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -177,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "第 4 章 正弦电流电路/4.4 RLC 元件上电压与电流的相量关系.md",
+                "file": "第 4 章 正弦电流电路/4.5 阻抗与导纳.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "4.4 RLC 元件上电压与电流的相量关系 的大纲"
+              "title": "4.5 阻抗与导纳 的大纲"
             }
           },
           {
@@ -218,8 +242,9 @@
   },
   "active": "8bf7b53492dff20f",
   "lastOpenFiles": [
-    "第 4 章 正弦电流电路/4.2 正弦量的相量表示法 4.3 基尔霍夫定律的相量形式.md",
     "第 4 章 正弦电流电路/4.4 RLC 元件上电压与电流的相量关系.md",
+    "第 4 章 正弦电流电路/4.5 阻抗与导纳.md",
+    "第 4 章 正弦电流电路/4.2 正弦量的相量表示法 4.3 基尔霍夫定律的相量形式.md",
     "第 4 章 正弦电流电路/images/4.2/phasor-rotating.png",
     "第 4 章 正弦电流电路/4.1 正弦电流.md",
     "第 4 章 正弦电流电路/images/4.2/phasor-diagram.png",
@@ -262,7 +287,6 @@
     "第 1 章 电路元件与电路基本定律/1.6 受控电源.md",
     "第 1 章 电路元件与电路基本定律/1.5 独立电源.md",
     "第 1 章 电路元件与电路基本定律/1.4 电感元件.md",
-    "第 1 章 电路元件与电路基本定律/1.3 电容元件.md",
-    "第 1 章 电路元件与电路基本定律/1.2 电阻元件.md"
+    "第 1 章 电路元件与电路基本定律/1.3 电容元件.md"
   ]
 }
