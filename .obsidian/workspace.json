@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "第 4 章 正弦电流电路/4.2 正弦量的相量表示法.md",
+                "file": "第 4 章 正弦电流电路/4.2 正弦量的相量表示法 4.3 基尔霍夫定律的相量形式.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "4.2 正弦量的相量表示法"
+              "title": "4.2 正弦量的相量表示法 4.3 基尔霍夫定律的相量形式"
+            }
+          },
+          {
+            "id": "3cad902c839e8f0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第 4 章 正弦电流电路/4.4 RLC 元件上电压与电流的相量关系.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "4.4 RLC 元件上电压与电流的相量关系"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -152,13 +177,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "第 4 章 正弦电流电路/4.2 正弦量的相量表示法.md",
+                "file": "第 4 章 正弦电流电路/4.4 RLC 元件上电压与电流的相量关系.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "4.2 正弦量的相量表示法 的大纲"
+              "title": "4.4 RLC 元件上电压与电流的相量关系 的大纲"
             }
           },
           {
@@ -191,9 +216,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1cefdb4f95118a63",
+  "active": "8bf7b53492dff20f",
   "lastOpenFiles": [
-    "第 4 章 正弦电流电路/4.2 正弦量的相量表示法.md",
+    "第 4 章 正弦电流电路/4.2 正弦量的相量表示法 4.3 基尔霍夫定律的相量形式.md",
+    "第 4 章 正弦电流电路/4.4 RLC 元件上电压与电流的相量关系.md",
     "第 4 章 正弦电流电路/images/4.2/phasor-rotating.png",
     "第 4 章 正弦电流电路/4.1 正弦电流.md",
     "第 4 章 正弦电流电路/images/4.2/phasor-diagram.png",
