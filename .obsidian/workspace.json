@@ -8,78 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d0660ebc70796cbc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "第 4 章 正弦电流电路/4.5 阻抗与导纳.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "4.5 阻抗与导纳"
-            }
-          },
-          {
-            "id": "a33a3177e8746b8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "第 4 章 正弦电流电路/4.6 正弦电流电路的相量分析法.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "4.6 正弦电流电路的相量分析法"
-            }
-          },
-          {
-            "id": "0457093a687a4536",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "第 2 章 线性直流电路/2.5 节点电压法.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2.5 节点电压法"
-            }
-          },
-          {
             "id": "fde03c2093959a11",
             "type": "leaf",
             "state": {
@@ -103,8 +31,7 @@
               "title": "4.8 最大功率传输定理"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -225,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "第 2 章 线性直流电路/2.5 节点电压法.md",
+                "file": "第 4 章 正弦电流电路/4.8 最大功率传输定理.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2.5 节点电压法 的大纲"
+              "title": "4.8 最大功率传输定理 的大纲"
             }
           },
           {
@@ -264,9 +191,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0457093a687a4536",
+  "active": "fde03c2093959a11",
   "lastOpenFiles": [
     "第 4 章 正弦电流电路/4.5 阻抗与导纳.md",
+    "第 4 章 正弦电流电路/4.6 正弦电流电路的相量分析法.md",
+    "第 2 章 线性直流电路/2.5 节点电压法.md",
     "第 4 章 正弦电流电路/4.2 正弦量的相量表示法 4.3 基尔霍夫定律的相量形式.md",
     "第 4 章 正弦电流电路/4.4 RLC 元件上电压与电流的相量关系.md",
     "第 4 章 正弦电流电路/4.8 最大功率传输定理.md",
@@ -278,7 +207,6 @@
     "第 4 章 正弦电流电路/images/4.7/RL-series-reactive-power.png",
     "第 4 章 正弦电流电路/images/4.5/RLC-series.png",
     "第 4 章 正弦电流电路/images/4.7",
-    "第 4 章 正弦电流电路/4.6 正弦电流电路的相量分析法.md",
     "第 4 章 正弦电流电路/images/4.5/RLC-phasor-diagram.png",
     "第 4 章 正弦电流电路/images/4.5/GCL-phasor-diagram.png",
     "第 4 章 正弦电流电路/images/4.5/GCL-parallel.png",
@@ -304,7 +232,6 @@
     "第 3 章 电路定理/images/3.5",
     "第 2 章 线性直流电路/2.1 电阻网络的等效.md",
     "第 2 章 线性直流电路/总结：电路的基本分析方法.md",
-    "第 2 章 线性直流电路/2.5 节点电压法.md",
     "第 2 章 线性直流电路/习题选解.md",
     "第 2 章 线性直流电路/2.4 回路电流法.md",
     "第 2 章 线性直流电路/2.3 支路电流法.md",
