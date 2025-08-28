@@ -13,30 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "第 5 章 三相电路/5.1 三相电源和三相电路.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "5.1 三相电源和三相电路"
-            }
-          },
-          {
-            "id": "6dc46876a38d7844",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "第 5 章 三相电路/5.2 星形联结和三角形联结.md",
                 "mode": "source",
                 "source": false,
@@ -55,8 +31,7 @@
               "title": "5.2 星形联结和三角形联结"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -216,10 +191,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6dc46876a38d7844",
+  "active": "fde03c2093959a11",
   "lastOpenFiles": [
-    "第 5 章 三相电路/5.1 三相电源和三相电路.md",
+    "第 5 章 三相电路/images/5.2/star-voltage-phasor.png",
     "第 5 章 三相电路/5.2 星形联结和三角形联结.md",
+    "第 5 章 三相电路/5.1 三相电源和三相电路.md",
+    "第 2 章 线性直流电路/images/2.1/resistor-star-and-triangle.png",
+    "第 2 章 线性直流电路/2.1 电阻网络的等效.md",
     "第 5 章 三相电路/images/5.2/star.png",
     "第 5 章 三相电路/images/5.2",
     "Pasted image 20250828223229.png",
@@ -240,9 +218,7 @@
     "第 4 章 正弦电流电路/images/4.7/power-factor-improvement.png",
     "第 4 章 正弦电流电路/images/4.7/power-triangle.png",
     "第 4 章 正弦电流电路/images/4.7/RL-series-reactive-power.png",
-    "第 4 章 正弦电流电路/images/4.5/RLC-series.png",
     "第 4 章 正弦电流电路/images/4.7",
-    "第 4 章 正弦电流电路/images/4.5/RLC-phasor-diagram.png",
     "第 4 章 正弦电流电路/4.1 正弦电流.md",
     "第 4 章 正弦电流电路/images/4.5",
     "第 4 章 正弦电流电路/images/4.2",
@@ -257,7 +233,6 @@
     "第 3 章 电路定理/习题选解.md",
     "第 3 章 电路定理/3.3 等效电源定理（戴维南定理和诺顿定理）.md",
     "第 3 章 电路定理/总结.md",
-    "第 2 章 线性直流电路/2.1 电阻网络的等效.md",
     "第 2 章 线性直流电路/总结：电路的基本分析方法.md",
     "第 2 章 线性直流电路/习题选解.md",
     "第 2 章 线性直流电路/2.4 回路电流法.md",
