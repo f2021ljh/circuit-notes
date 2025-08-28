@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "第 4 章 正弦电流电路/4.5 阻抗与导纳.md",
+                "file": "第 2 章 线性直流电路/2.5 节点电压法.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "4.5 阻抗与导纳"
+              "title": "2.5 节点电压法"
             }
           },
           {
@@ -225,13 +225,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "第 4 章 正弦电流电路/4.5 阻抗与导纳.md",
+                "file": "第 2 章 线性直流电路/2.5 节点电压法.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "4.5 阻抗与导纳 的大纲"
+              "title": "2.5 节点电压法 的大纲"
             }
           },
           {
@@ -266,9 +266,9 @@
   },
   "active": "0457093a687a4536",
   "lastOpenFiles": [
+    "第 4 章 正弦电流电路/4.5 阻抗与导纳.md",
     "第 4 章 正弦电流电路/4.2 正弦量的相量表示法 4.3 基尔霍夫定律的相量形式.md",
     "第 4 章 正弦电流电路/4.4 RLC 元件上电压与电流的相量关系.md",
-    "第 4 章 正弦电流电路/4.5 阻抗与导纳.md",
     "第 4 章 正弦电流电路/4.8 最大功率传输定理.md",
     "第 4 章 正弦电流电路/images/4.8/max-power.png",
     "第 4 章 正弦电流电路/images/4.8",
