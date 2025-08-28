@@ -55,8 +55,7 @@
               "title": "5.3 对称三相电路的计算"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,13 +176,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "第 5 章 三相电路/5.3 对称三相电路的计算.md",
+                "file": "第 5 章 三相电路/5.2 星形联结和三角形联结.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "5.3 对称三相电路的计算 的大纲"
+              "title": "5.2 星形联结和三角形联结 的大纲"
             }
           },
           {
@@ -216,10 +215,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "69168937f1991c77",
+  "active": "fde03c2093959a11",
   "lastOpenFiles": [
-    "第 5 章 三相电路/5.2 星形联结和三角形联结.md",
     "第 5 章 三相电路/5.3 对称三相电路的计算.md",
+    "第 5 章 三相电路/5.2 星形联结和三角形联结.md",
     "第 5 章 三相电路/images/5.2/Delta-Delta.png",
     "第 5 章 三相电路/images/5.2/Y-Y.png",
     "第 5 章 三相电路/images/5.2/triangle-voltage-test.png",
