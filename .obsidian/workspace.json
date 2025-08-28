@@ -30,8 +30,21 @@
               "icon": "lucide-file",
               "title": "4.8 最大功率传输定理"
             }
+          },
+          {
+            "id": "500520c42395f33f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.9.12"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -152,13 +165,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "第 4 章 正弦电流电路/4.8 最大功率传输定理.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "4.8 最大功率传输定理 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -191,7 +203,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fde03c2093959a11",
+  "active": "500520c42395f33f",
   "lastOpenFiles": [
     "第 4 章 正弦电流电路/4.5 阻抗与导纳.md",
     "第 4 章 正弦电流电路/4.6 正弦电流电路的相量分析法.md",
