@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fde03c2093959a11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "第 5 章 三相电路/5.1 三相电源和三相电路.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "5.1 三相电源和三相电路"
-            }
-          },
-          {
             "id": "69168937f1991c77",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "第 5 章 三相电路/5.3 对称三相电路的计算.md",
+                "file": "第 5 章 三相电路/5.2 星形联结和三角形联结.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "5.3 对称三相电路的计算"
+              "title": "5.2 星形联结和三角形联结"
             }
           }
         ]
@@ -176,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "第 5 章 三相电路/5.1 三相电源和三相电路.md",
+                "file": "第 5 章 三相电路/5.2 星形联结和三角形联结.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "5.1 三相电源和三相电路 的大纲"
+              "title": "5.2 星形联结和三角形联结 的大纲"
             }
           },
           {
@@ -215,11 +191,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fde03c2093959a11",
+  "active": "69168937f1991c77",
   "lastOpenFiles": [
-    "第 5 章 三相电路/5.2 星形联结和三角形联结.md",
-    "第 5 章 三相电路/5.1 三相电源和三相电路.md",
     "第 5 章 三相电路/5.3 对称三相电路的计算.md",
+    "第 5 章 三相电路/5.1 三相电源和三相电路.md",
+    "第 5 章 三相电路/5.2 星形联结和三角形联结.md",
     "第 5 章 三相电路/images/5.2/Delta-Delta.png",
     "第 5 章 三相电路/images/5.2/Y-Y.png",
     "第 5 章 三相电路/images/5.2/triangle-voltage-test.png",
