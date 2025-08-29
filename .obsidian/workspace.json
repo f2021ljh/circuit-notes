@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "第 4 章 正弦电流电路/4.7 正弦电流电路的功率.md",
+                "file": "第 5 章 三相电路/5.4 不对称三相电路示例.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "4.7 正弦电流电路的功率"
+              "title": "5.4 不对称三相电路示例"
+            }
+          },
+          {
+            "id": "1eb95146c2bf23e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第 5 章 三相电路/5.5 三相电路的功率.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "5.5 三相电路的功率"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -152,13 +177,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "第 4 章 正弦电流电路/4.7 正弦电流电路的功率.md",
+                "file": "第 5 章 三相电路/5.5 三相电路的功率.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "4.7 正弦电流电路的功率 的大纲"
+              "title": "5.5 三相电路的功率 的大纲"
             }
           },
           {
@@ -191,11 +216,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "69168937f1991c77",
+  "active": "1eb95146c2bf23e8",
   "lastOpenFiles": [
+    "第 5 章 三相电路/5.4 不对称三相电路示例.md",
+    "第 4 章 正弦电流电路/4.7 正弦电流电路的功率.md",
+    "第 5 章 三相电路/5.5 三相电路的功率.md",
     "第 5 章 三相电路/5.2 星形联结和三角形联结.md",
     "第 5 章 三相电路/5.3 对称三相电路的计算.md",
-    "第 4 章 正弦电流电路/4.7 正弦电流电路的功率.md",
     "第 4 章 正弦电流电路/4.4 RLC 元件上电压与电流的相量关系.md",
     "第 5 章 三相电路/5.1 三相电源和三相电路.md",
     "第 1 章 电路元件与电路基本定律/1.4 电感元件.md",
@@ -236,8 +263,6 @@
     "第 3 章 电路定理/习题选解.md",
     "第 3 章 电路定理/3.3 等效电源定理（戴维南定理和诺顿定理）.md",
     "第 3 章 电路定理/总结.md",
-    "第 2 章 线性直流电路/总结：电路的基本分析方法.md",
-    "第 2 章 线性直流电路/习题选解.md",
-    "第 2 章 线性直流电路/2.4 回路电流法.md"
+    "第 2 章 线性直流电路/总结：电路的基本分析方法.md"
   ]
 }
