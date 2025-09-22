@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9cbf5cc168aa2cf5",
+            "id": "0e2f35e15534140a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "第 6 章 非正弦周期电流电路/6.1 非正弦周期电流和电压.md",
+                "file": "第 4 章 正弦电流电路/4.9 耦合电感.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,23 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "6.1 非正弦周期电流和电压"
-            }
-          },
-          {
-            "id": "0e2f35e15534140a",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20250922130150.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250922130150"
+              "title": "4.9 耦合电感"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -165,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20250922130150.png",
+                "file": "第 4 章 正弦电流电路/4.9 耦合电感.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Pasted image 20250922130150 的大纲"
+              "title": "4.9 耦合电感 的大纲"
             }
           },
           {
@@ -206,8 +193,10 @@
   },
   "active": "0e2f35e15534140a",
   "lastOpenFiles": [
+    "Pasted image 20250922130536.png",
+    "第 4 章 正弦电流电路/images/4.9/mutual-inductor-symbols.png",
+    "第 4 章 正弦电流电路/images/4.9",
     "第 4 章 正弦电流电路/4.9 耦合电感.md",
-    "Pasted image 20250922130150.png",
     "第 4 章 正弦电流电路/4.8 最大功率传输定理.md",
     "第 6 章 非正弦周期电流电路/6.1 非正弦周期电流和电压.md",
     "第 6 章 非正弦周期电流电路/images",
@@ -243,7 +232,6 @@
     "第 2 章 线性直流电路/2.5 节点电压法.md",
     "第 4 章 正弦电流电路/4.2 正弦量的相量表示法 4.3 基尔霍夫定律的相量形式.md",
     "第 4 章 正弦电流电路/images/4.8",
-    "第 4 章 正弦电流电路/images/4.7",
     "第 4 章 正弦电流电路/4.1 正弦电流.md",
     "第 3 章 电路定理/3.5 互易定理.md",
     "第 3 章 电路定理/3.4 特勒根定理.md",
